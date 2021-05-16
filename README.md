@@ -13,15 +13,28 @@ En este sitio  podrá analizar las herramientas utilizadas por el equipo para tr
 
 
 ![gini](https://user-images.githubusercontent.com/73482880/118412814-b1712f80-b661-11eb-87d0-ad422e91e1da.jpg)
-![ingpquint](https://user-images.githubusercontent.com/73482880/118412819-b59d4d00-b661-11eb-97bf-ad4864de4eb3.jpg)
+
+![ingreso quintil con y sin ayudas](https://user-images.githubusercontent.com/73482880/118413197-addea800-b663-11eb-8211-f64c6ae25c31.gif)
+![Informalidad](https://user-images.githubusercontent.com/73482880/118413216-c222a500-b663-11eb-893b-3fc869d3709c.jpg)
+
+
+
+
+
 ![pobreza con ayudas bta](https://user-images.githubusercontent.com/73482880/118412822-b9c96a80-b661-11eb-8912-2992d107e321.png)
 ![Caribe Region MP con ayudas](https://user-images.githubusercontent.com/73482880/118412828-c51c9600-b661-11eb-9573-42887ba4c653.jpg)
 ![Caribe Region EP_1 Sin ayudas](https://user-images.githubusercontent.com/73482880/118412833-ca79e080-b661-11eb-9e27-1bb21b9a9983.jpg)
+
+![Pobreza Extrema Caribe GIF](https://user-images.githubusercontent.com/73482880/118413160-812a9080-b663-11eb-8d5e-c1f1632fe168.gif)
+
+
+
+
 ![Vacunación sur América](https://user-images.githubusercontent.com/73482880/118412844-dbc2ed00-b661-11eb-9f87-92c3d3ece2b2.gif)
 ![Movilidad en Colombia ](https://user-images.githubusercontent.com/73482880/118412849-e1b8ce00-b661-11eb-823a-87a79ea4f9ea.gif)
 ![dosis etapa 1 - waffle](https://user-images.githubusercontent.com/73482880/118412850-e3829180-b661-11eb-91b4-cdb145fa9c22.png)
 ![dosis nacionales- mapa](https://user-images.githubusercontent.com/73482880/118412853-e67d8200-b661-11eb-82df-22e5a3eac167.png)
-ges.githubusercontent.com/73482880/118412805-a1f1e680-b661-11eb-831c-83bb352f57b0.jpg)
+![Vacunación por región Colombia](https://user-images.githubusercontent.com/73482880/118413239-dff00a00-b663-11eb-9ce0-d5285b0fd0c4.png)
 
 # Programas requeridos 
  * R
