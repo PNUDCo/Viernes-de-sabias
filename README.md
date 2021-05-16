@@ -6,6 +6,20 @@ Este repositorio contiene los elementos utilizados por el equipo de datos de PNU
 En este sitio  podrá analizar las herramientas utilizadas por el equipo para trabajar las principales bases de datos  con información   datos y elaborar gráficas .
 
 
+Tema | Fecha de publicación | link de acceso a entrada
+------------ | -------------| -------------
+Mujeres en el mercado laboral|  5 de marzo 2021| https://bit.ly/2RlHmY0
+Brechas en la educación      |  25 de marzo 2021| https://bit.ly/2SXbQQH
+Impacto de la pandemia COVID -19|  31 de marzo 2021| https://bit.ly/3fqD7lY
+Mercado laboral y pobreza monetaria |  8 de abril 2021| https://bit.ly/3eNsvP3
+Pobreza y desigualdad en la región Caribe|  22 de abril 2021| https://bit.ly/3ycDw4a
+Avances de vacunación en Colombia |  Próximamente | Próximamente 
+
+
+
+
+
+
 
 ![GIF_Tasa_Desempleo](https://user-images.githubusercontent.com/73482880/118405603-6e519500-b63e-11eb-90a7-0caa35e9c40a.gif)
 
