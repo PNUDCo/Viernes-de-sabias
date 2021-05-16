@@ -1,0 +1,100 @@
+year,Zona,punt_global,INSE,Departamento,Indice_internet_fijo
+2018,Urbana-Rural,247.57292,50.75565,Antioquia,.1794
+2019,Urbana-Rural,242.09467,51.057495,Antioquia,.185
+2020,Urbana-Rural,244.21814,51.30035,Antioquia,.2013
+2018,Urbana (>75% mpios),247.85309,51.25848,Atlantico,.1354
+2019,Urbana (>75% mpios),243.27457,51.478634,Atlantico,.1333
+2020,Urbana (>75% mpios),245.63615,51.411362,Atlantico,.1416
+2018,Urbana (>75% mpios),273.1055,56.674038,Bogota,.253
+2019,Urbana (>75% mpios),268.26035,56.96167,Bogota,.2522
+2020,Urbana (>75% mpios),269.21991,56.761913,Bogota,.2667
+2018,Urbana-Rural,233.50073,48.353821,Bolivar,.0888
+2019,Urbana-Rural,228.48743,48.581947,Bolivar,.0932
+2020,Urbana-Rural,230.74677,48.778782,Bolivar,.0906
+2018,Rural (>75% mpios),266.3689,48.528019,Boyaca,.0941
+2019,Rural (>75% mpios),261.38266,49.077572,Boyaca,.1012
+2020,Rural (>75% mpios),260.75281,49.784294,Boyaca,.1052
+2018,Urbana-Rural,252.03633,49.558849,Caldas,.1217
+2019,Urbana-Rural,247.10626,49.682846,Caldas,.1259
+2020,Urbana-Rural,251.71431,50.548458,Caldas,.1392
+2018,Rural (>75% mpios),238.33479,45.217281,Caqueta,.0534
+2019,Rural (>75% mpios),233.00021,45.438839,Caqueta,.0658
+2020,Rural (>75% mpios),236.82504,47.066402,Caqueta,.0779
+2018,Rural (>75% mpios),235.79488,44.223507,Cauca,.0518
+2019,Rural (>75% mpios),231.11337,44.855724,Cauca,.0516
+2020,Rural (>75% mpios),234.25768,45.274063,Cauca,.0557
+2018,Urbana-Rural,241.50038,47.887398,Cesar,.0725
+2019,Urbana-Rural,238.27756,48.257084,Cesar,.0808
+2020,Urbana-Rural,240.50871,48.777023,Cesar,.0845
+2018,Rural (>75% mpios),241.19049,45.357491,Cordoba,.0534
+2019,Rural (>75% mpios),235.7231,45.719765,Cordoba,.0577
+2020,Rural (>75% mpios),235.48859,46.115273,Cordoba,.0611
+2018,Rural (>75% mpios),258.16302,50.991932,Cundinamarca,.1307
+2019,Urbana-Rural,253.3201,51.598167,Cundinamarca,.1358
+2020,Urbana-Rural,257.56009,52.59436,Cundinamarca,.1513
+2018,Rural (>75% mpios),208.45071,46.089466,Choco,.0413
+2019,Rural (>75% mpios),200.78561,45.774475,Choco,.0448
+2020,Rural (>75% mpios),208.80023,47.255573,Choco,.0501
+2018,Rural (>75% mpios),252.75014,46.880344,Huila,.0932
+2019,Rural (>75% mpios),249.65355,47.353741,Huila,.0987
+2020,Rural (>75% mpios),250.56964,48.265511,Huila,.1091
+2018,Rural (>75% mpios),223.74008,47.000629,La Guajira,.0439
+2019,Rural (>75% mpios),218.56879,46.874832,La Guajira,.0489
+2020,Rural (>75% mpios),226.12398,47.873432,La Guajira,.0547
+2018,Urbana-Rural,225.69049,47.399376,Magdalena,.0681
+2019,Urbana-Rural,221.88666,47.928341,Magdalena,.0704
+2020,Rural (>75% mpios),226.66188,48.078941,Magdalena,.0728
+2018,Urbana-Rural,253.43608,50.108707,Meta,.1138
+2019,Urbana-Rural,247.21674,50.116695,Meta,.1231
+2020,Urbana-Rural,250.74936,51.257629,Meta,.1322
+2018,Rural (>75% mpios),250.99725,44.810062,Nariño,.0599
+2019,Rural (>75% mpios),245.25583,45.239559,Nariño,.064
+2020,Rural (>75% mpios),248.81401,45.766319,Nariño,.0649
+2018,Urbana-Rural,260.60815,48.193256,N. De Santander,.0955
+2019,Urbana-Rural,254.91559,48.630722,N. De Santander,.0969
+2020,Urbana-Rural,256.12329,48.910236,N. De Santander,.108
+2018,Urbana (>75% mpios),255.31543,51.214809,Quindio,.175
+2019,Urbana (>75% mpios),252.27966,51.5676,Quindio,.1869
+2020,Urbana (>75% mpios),254.37697,52.024456,Quindio,.2056
+2018,Urbana-Rural,256.30789,51.438854,Risaralda,.1776
+2019,Urbana-Rural,251.24644,51.623711,Risaralda,.187
+2020,Urbana-Rural,253.99374,52.116364,Risaralda,.2103
+2018,Urbana-Rural,266.66241,50.325932,Santander,.1557
+2019,Urbana-Rural,264.30972,50.642445,Santander,.1515
+2020,Urbana-Rural,265.09793,51.020988,Santander,.1586
+2018,Rural (>75% mpios),240.63625,45.895157,Sucre,.0571
+2019,Rural (>75% mpios),235.82367,46.147926,Sucre,.0581
+2020,Rural (>75% mpios),235.82965,46.881992,Sucre,.0605
+2018,Rural (>75% mpios),245.41835,48.539429,Tolima,.1145
+2019,Rural (>75% mpios),240.67949,49.154549,Tolima,.1204
+2020,Urbana-Rural,242.29103,49.628838,Tolima,.1237
+2018,Urbana (>75% mpios),253.8101,51.854073,Valle Del Cauca,.1657
+2019,Urbana (>75% mpios),250.33823,52.240849,Valle Del Cauca,.173
+2020,Urbana (>75% mpios),251.92421,50.836025,Valle Del Cauca,.1871
+2018,Rural (>75% mpios),246.60066,45.228973,Arauca,.0429
+2019,Rural (>75% mpios),240.53145,45.936253,Arauca,.054
+2020,Rural (>75% mpios),239.95935,46.556458,Arauca,.0647
+2018,Urbana-Rural,251.13806,47.392456,Casanare,.0812
+2019,Urbana-Rural,246.65842,47.913292,Casanare,.0859
+2020,Urbana-Rural,248.5901,48.618343,Casanare,.1071
+2018,Rural (>75% mpios),240.70732,42.272362,Putumayo,.0421
+2019,Rural (>75% mpios),236.30698,43.115116,Putumayo,.0319
+2020,Rural (>75% mpios),237.96861,44.69569,Putumayo,.0563
+2018,Urbana-Rural,241.10078,52.741642,San Andres,.0686
+2019,Urbana-Rural,230.0351,53.468395,San Andres,.0648
+2020,Rural (>75% mpios),236.13997,52.946541,San Andres,.0496
+2018,Rural (>75% mpios),220.0441,45.334854,Amazonas,.0084
+2019,Rural (>75% mpios),214.92827,44.880295,Amazonas,.0171
+2020,Rural (>75% mpios),225.40741,47.030525,Amazonas,.0182
+2018,Rural (>75% mpios),247.85864,43.148689,Guainia,.0121
+2019,Rural (>75% mpios),240.97826,42.183662,Guainia,.0307
+2020,Rural (>75% mpios),242.70619,47.230473,Guainia,.0332
+2018,Rural (>75% mpios),230.25101,45.088924,Guaviare,.029
+2019,Rural (>75% mpios),223.89412,44.826756,Guaviare,.0313
+2020,Rural (>75% mpios),231.31981,46.869011,Guaviare,.0326
+2018,Rural (>75% mpios),211.70822,39.609741,Vaupes,.0015
+2019,Rural (>75% mpios),209.62643,39.990826,Vaupes,.0021
+2020,Rural (>75% mpios),211.47974,41.897572,Vaupes,.0013
+2018,Rural (>75% mpios),229.54581,43.575386,Vichada,.0084
+2019,Rural (>75% mpios),225,43.063763,Vichada,.012
+2020,Rural (>75% mpios),222.18799,44.346191,Vichada,.013
