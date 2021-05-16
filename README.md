@@ -10,7 +10,7 @@ En este sitio  podrá analizar las herramientas utilizadas por el equipo para tr
 ![GIF_Tasa_Desempleo](https://user-images.githubusercontent.com/73482880/118405603-6e519500-b63e-11eb-90a7-0caa35e9c40a.gif)
 
 ![271-ggplot2-animated-gif-chart-with-gganimate1](https://user-images.githubusercontent.com/73482880/118412765-75d66580-b661-11eb-96d2-5e37f83d17f0.gif)
-![DEPTO_lectura](https://user-images.githubusercontent.com/73482880/118412772-7e2ea080-b661-11eb-9b30-16c355074800.gif)
+
 ![gini](https://user-images.githubusercontent.com/73482880/118412814-b1712f80-b661-11eb-87d0-ad422e91e1da.jpg)
 ![ingpquint](https://user-images.githubusercontent.com/73482880/118412819-b59d4d00-b661-11eb-97bf-ad4864de4eb3.jpg)
 ![pobreza con ayudas bta](https://user-images.githubusercontent.com/73482880/118412822-b9c96a80-b661-11eb-8912-2992d107e321.png)
