@@ -46,13 +46,14 @@ Las transferencias del Gobierno nacional y distrital a los hogares alcanzaron un
 
 ![ingreso quintil con y sin ayudas](https://user-images.githubusercontent.com/73482880/118413197-addea800-b663-11eb-8211-f64c6ae25c31.gif)
 
-![pobreza con ayudas bta](https://user-images.githubusercontent.com/73482880/118412822-b9c96a80-b661-11eb-8912-2992d107e321.png)
+## Pobreza y desigualdad en la región Caribe
+
 ![Caribe Region MP con ayudas](https://user-images.githubusercontent.com/73482880/118412828-c51c9600-b661-11eb-9573-42887ba4c653.jpg)
 ![Caribe Region EP_1 Sin ayudas](https://user-images.githubusercontent.com/73482880/118412833-ca79e080-b661-11eb-9e27-1bb21b9a9983.jpg)
 
 ![Pobreza Extrema Caribe GIF](https://user-images.githubusercontent.com/73482880/118413160-812a9080-b663-11eb-8d5e-c1f1632fe168.gif)
 
-
+## Avances de vacunación en Colombia 
 
 
 ![Vacunación sur América](https://user-images.githubusercontent.com/73482880/118412844-dbc2ed00-b661-11eb-9f87-92c3d3ece2b2.gif)
