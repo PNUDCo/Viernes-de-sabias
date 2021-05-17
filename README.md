@@ -35,12 +35,13 @@ Estimaciones realizadas por el PNUD, indican que a nivel nacional el coeficiente
 
 ![gini](https://user-images.githubusercontent.com/73482880/118412814-b1712f80-b661-11eb-87d0-ad422e91e1da.jpg)
 
-![ingreso quintil con y sin ayudas](https://user-images.githubusercontent.com/73482880/118413197-addea800-b663-11eb-8211-f64c6ae25c31.gif)
+
+Hubo incremento del empleo informal entre el 2019 y el 2020 de un 1,5 puntos porcentuales; un aumento que además evidencia una brecha a favor de esta forma de trabajo sobre el empleo formal.
 ![Informalidad](https://user-images.githubusercontent.com/73482880/118413216-c222a500-b663-11eb-893b-3fc869d3709c.jpg)
 
 
 
-
+![ingreso quintil con y sin ayudas](https://user-images.githubusercontent.com/73482880/118413197-addea800-b663-11eb-8211-f64c6ae25c31.gif)
 
 ![pobreza con ayudas bta](https://user-images.githubusercontent.com/73482880/118412822-b9c96a80-b661-11eb-8912-2992d107e321.png)
 ![Caribe Region MP con ayudas](https://user-images.githubusercontent.com/73482880/118412828-c51c9600-b661-11eb-9573-42887ba4c653.jpg)
