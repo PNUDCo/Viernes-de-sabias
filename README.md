@@ -40,7 +40,9 @@ Hubo incremento del empleo informal entre el 2019 y el 2020 de un 1,5 puntos por
 
 ![Informalidad](https://user-images.githubusercontent.com/73482880/118413216-c222a500-b663-11eb-893b-3fc869d3709c.jpg)
 
+## Mercado laboral y pobreza monetaria 
 
+Las transferencias del Gobierno nacional y distrital a los hogares alcanzaron un nivel sin precedentes durante la crisis, pasando de cubrir alrededor de 2,6 millones de hogares a más de 5 millones de hogares pobres y vulnerables,lo cual tuvo un efecto compensatorio d en el ingreso promedio de los hogares agrupados por quintil de ingreso. Esta dinámica se resume en el gráfico, en las que se presentan las variaciones estimadas del ingreso promedio por quintil con transferencias (panel izquierdo) y sin transferencias (panel derecho).
 
 ![ingreso quintil con y sin ayudas](https://user-images.githubusercontent.com/73482880/118413197-addea800-b663-11eb-8211-f64c6ae25c31.gif)
 
