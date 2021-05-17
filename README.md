@@ -2,11 +2,7 @@
 
 Este repositorio contiene las gráficas elaboradas en R por el equipo de datos de PNUD Colombia, las cuales hacen  parte de la publicación de   **_viernes de sabías_**, en la cual se exploran  diferentes tematicas de la coyuntura nacional. 
 
-Esta sección la puede encontrar en la página o en las diferentes redes sociales  de PNUD  Colombia.
-
-En la siguiente tabla  se hace un listado de los temas y  las rutas de acceso a estas:
-
-
+Esta sección la puede encontrar en la página o en las diferentes redes sociales  de PNUD  Colombia.En la siguiente tabla  se hace un listado de los temas y  las rutas de acceso a estas:
 
 Tema | Fecha de publicación | link de acceso a entrada
 ------------ | -------------| -------------
