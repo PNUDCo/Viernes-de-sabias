@@ -37,6 +37,7 @@ Estimaciones realizadas por el PNUD, indican que a nivel nacional el coeficiente
 
 
 Hubo incremento del empleo informal entre el 2019 y el 2020 de un 1,5 puntos porcentuales; un aumento que además evidencia una brecha a favor de esta forma de trabajo sobre el empleo formal.
+
 ![Informalidad](https://user-images.githubusercontent.com/73482880/118413216-c222a500-b663-11eb-893b-3fc869d3709c.jpg)
 
 
