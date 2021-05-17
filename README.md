@@ -24,9 +24,13 @@ La crisis socioeconómica desatada a raíz de la gestión de la pandemia del COV
 
 En la última década los departamentos más desarrollados, que tienen alto acceso a internet, presentan un mejor desempeño medido a través de pruebas estandarizadas respecto a aquellos departamentos que no tienen acceso a banda ancha
 
-![Figura1](https://user-images.githubusercontent.com/73482880/118412900-23e20f80-b662-11eb-9d47-3a35a3b99446.gif)![Figura2](https://user-images.githubusercontent.com/73482880/118412912-30666800-b662-11eb-9d6b-f734f3f706e2.gif)
+![Figura1](https://user-images.githubusercontent.com/73482880/118412900-23e20f80-b662-11eb-9d47-3a35a3b99446.gif)
 
 Los estudiantes de establecimientos ubicados departamentos mayoritariamente rurales tienen con frecuencia bajo índice de nivel socioeconómico (INSE) y baja penetración a puntos fijos de internet, lo cual se asocia a bajos aprendizajes medidos a través de la prueba Saber 11
+
+![Figura2](https://user-images.githubusercontent.com/73482880/118412912-30666800-b662-11eb-9d6b-f734f3f706e2.gif)
+
+
 
 ![gini](https://user-images.githubusercontent.com/73482880/118412814-b1712f80-b661-11eb-87d0-ad422e91e1da.jpg)
 
