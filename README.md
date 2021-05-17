@@ -20,6 +20,10 @@ La crisis socioeconómica desatada a raíz de la gestión de la pandemia del COV
   
 ![GIF_Tasa_Desempleo](https://user-images.githubusercontent.com/73482880/118405603-6e519500-b63e-11eb-90a7-0caa35e9c40a.gif)
 
+## Brechas en la educación 
+
+En la última década los departamentos más desarrollados que tienen alto acceso a internet presentan un mejor desempeño medido a través de pruebas estandarizadas respecto a aquellos departamentos que no tienen acceso a banda ancha
+
 ![Figura1](https://user-images.githubusercontent.com/73482880/118412900-23e20f80-b662-11eb-9d47-3a35a3b99446.gif)![Figura2](https://user-images.githubusercontent.com/73482880/118412912-30666800-b662-11eb-9d6b-f734f3f706e2.gif)
 
 
