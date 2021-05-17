@@ -1,10 +1,11 @@
 # Viernes-de-sabias
 
-Este repositorio contiene los elementos utilizados por el equipo de datos de PNUD Colombia para elaborar la sección de  **_viernes de sabías_**, en la cual se exploran  diferentes tematicas de la realidad  nacional. 
+Este repositorio contiene las gráficas elaboradas en R por el equipo de datos de PNUD Colombia, las cuales hacen  parte de la publicación de   **_viernes de sabías_**, en la cual se exploran  diferentes tematicas de la coyuntura nacional. 
 
+Esta sección la puede encontrar en la página o en las diferentes redes sociales  de PNUD  Colombia.
 
+En la siguiente tabla  se hace un listado de los temas y  las rutas de acceso a estas:
 
-En este sitio  podrá analizar las herramientas utilizadas por el equipo para trabajar las principales bases de datos  con información   datos y elaborar gráficas .
 
 
 Tema | Fecha de publicación | link de acceso a entrada
@@ -21,7 +22,8 @@ Avances de vacunación en Colombia |  Próximamente | Próximamente
 
 
 
-
+<p align="center">
+  
 ![GIF_Tasa_Desempleo](https://user-images.githubusercontent.com/73482880/118405603-6e519500-b63e-11eb-90a7-0caa35e9c40a.gif)
 
 ![Figura1](https://user-images.githubusercontent.com/73482880/118412900-23e20f80-b662-11eb-9d47-3a35a3b99446.gif)![Figura2](https://user-images.githubusercontent.com/73482880/118412912-30666800-b662-11eb-9d6b-f734f3f706e2.gif)
@@ -50,6 +52,10 @@ Avances de vacunación en Colombia |  Próximamente | Próximamente
 ![dosis etapa 1 - waffle](https://user-images.githubusercontent.com/73482880/118412850-e3829180-b661-11eb-91b4-cdb145fa9c22.png)
 ![dosis nacionales- mapa](https://user-images.githubusercontent.com/73482880/118412853-e67d8200-b661-11eb-82df-22e5a3eac167.png)
 ![Vacunación por región Colombia](https://user-images.githubusercontent.com/73482880/118413239-dff00a00-b663-11eb-9ce0-d5285b0fd0c4.png)
+
+
+
+</p>
 
 # Programas requeridos 
  * R
