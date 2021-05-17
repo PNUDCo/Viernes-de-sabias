@@ -8,7 +8,7 @@ Tema | Fecha de publicación | link de acceso a entrada
 ------------ | -------------| -------------
 Mujeres en el mercado laboral|  5 de marzo 2021| https://bit.ly/2RlHmY0
 Brechas en la educación      |  25 de marzo 2021| https://bit.ly/2SXbQQH
-Impacto de la pandemia COVID -19|  31 de marzo 2021| https://bit.ly/3fqD7lY
+Impacto  socioeconómica de la pandemia COVID -19|  31 de marzo 2021| https://bit.ly/3fqD7lY
 Mercado laboral y pobreza monetaria |  8 de abril 2021| https://bit.ly/3eNsvP3
 Pobreza y desigualdad en la región Caribe|  22 de abril 2021| https://bit.ly/3ycDw4a
 Avances de vacunación en Colombia |  Próximamente | Próximamente 
@@ -30,7 +30,8 @@ Los estudiantes de establecimientos ubicados departamentos mayoritariamente rura
 
 ![Figura2](https://user-images.githubusercontent.com/73482880/118412912-30666800-b662-11eb-9d6b-f734f3f706e2.gif)
 
-
+##  Impacto  socioeconómica de la pandemia COVID -19
+Estimaciones realizadas por el PNUD, indican que a nivel nacional el coeficiente de Gini en ausencia de ayudas institucionales del gobierno pudo pasar de 0.526 a 0.549
 
 ![gini](https://user-images.githubusercontent.com/73482880/118412814-b1712f80-b661-11eb-87d0-ad422e91e1da.jpg)
 
