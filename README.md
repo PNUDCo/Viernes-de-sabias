@@ -15,6 +15,8 @@ Avances de vacunación en Colombia |  Próximamente | Próximamente
 
 
 ## Mujeres en el mercado laboral
+
+La crisis socioeconómica desatada a raíz de la gestión de la pandemia del COVID-19 ha tenido consecuencias significativas para el mercado laboral en 2020 con un comportamiento diferencial para hombres y mujeres. Se observa una brecha histórica en la tasa de desempleo por sexo, profundizada por la crisis que afectó de manera más severa a las mujeres, tal y como se puede apreciar en la siguiente gráfica las mujeres han  presentedo tasas de desempleo más altas que la de los hombres
   
 ![GIF_Tasa_Desempleo](https://user-images.githubusercontent.com/73482880/118405603-6e519500-b63e-11eb-90a7-0caa35e9c40a.gif)
 
