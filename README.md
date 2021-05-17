@@ -14,11 +14,7 @@ Pobreza y desigualdad en la región Caribe|  22 de abril 2021| https://bit.ly/3y
 Avances de vacunación en Colombia |  Próximamente | Próximamente 
 
 
-
-
-
-
-<p align="center">
+## Mujeres en el mercado laboral
   
 ![GIF_Tasa_Desempleo](https://user-images.githubusercontent.com/73482880/118405603-6e519500-b63e-11eb-90a7-0caa35e9c40a.gif)
 
