@@ -1,8 +1,7 @@
 # Viernes-de-sabias
 
-Este repositorio contiene las gráficas elaboradas en R por el equipo de datos de PNUD Colombia, las cuales hacen  parte de la publicación de   **_viernes de sabías_**, en la cual se exploran  diferentes temáticas de la coyuntura nacional. 
+Este repositorio contiene los códigos mediante los cuales se eleboran las gráficas elaboradas por el equipo de datos de PNUD Colombia, estas hacen  parte de la publicación de   **_viernes de sabías_**, en la cual se exploran  diferentes temáticas de la coyuntura nacional. 
 
-Esta sección la puede encontrar en la página o en las diferentes redes sociales  de PNUD  Colombia.En la siguiente tabla  se hace un listado de los temas y  las rutas de acceso a estas:
 
 Tema | Fecha de publicación | link de acceso a entrada
 ------------ | -------------| -------------
@@ -22,7 +21,7 @@ La crisis socioeconómica desatada a raíz de la gestión de la pandemia del COV
 
 ## Brechas en la educación 
 
-En la última década los departamentos más desarrollados, que tienen alto acceso a internet, presentan un mejor desempeño medido a través de pruebas estandarizadas respecto a aquellos departamentos que no tienen acceso a banda ancha
+En la última década los departamentos más desarrollados, que tienen mayor acceso a internet, presentan un mejor desempeño medido en las pruebas estandarizadas, respecto a aquellos departamentos que no tienen acceso a banda ancha
 
 ![Figura1](https://user-images.githubusercontent.com/73482880/118412900-23e20f80-b662-11eb-9d47-3a35a3b99446.gif)
 
@@ -63,8 +62,6 @@ Las transferencias del Gobierno nacional y distrital a los hogares alcanzaron un
 ![Vacunación por región Colombia](https://user-images.githubusercontent.com/73482880/118413239-dff00a00-b663-11eb-9ce0-d5285b0fd0c4.png)
 
 
-
-</p>
 
 # Programas requeridos 
  * R
