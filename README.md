@@ -1,6 +1,6 @@
 # Viernes-de-sabias
 
-Este repositorio contiene las gráficas elaboradas en R por el equipo de datos de PNUD Colombia, las cuales hacen  parte de la publicación de   **_viernes de sabías_**, en la cual se exploran  diferentes tematicas de la coyuntura nacional. 
+Este repositorio contiene las gráficas elaboradas en R por el equipo de datos de PNUD Colombia, las cuales hacen  parte de la publicación de   **_viernes de sabías_**, en la cual se exploran  diferentes temáticas de la coyuntura nacional. 
 
 Esta sección la puede encontrar en la página o en las diferentes redes sociales  de PNUD  Colombia.En la siguiente tabla  se hace un listado de los temas y  las rutas de acceso a estas:
 
@@ -42,14 +42,14 @@ Hubo incremento del empleo informal entre el 2019 y el 2020 de un 1,5 puntos por
 
 ## Mercado laboral y pobreza monetaria 
 
-Las transferencias del Gobierno nacional y distrital a los hogares alcanzaron un nivel sin precedentes durante la crisis, pasando de cubrir alrededor de 2,6 millones de hogares a más de 5 millones de hogares pobres y vulnerables,lo cual tuvo un efecto compensatorio d en el ingreso promedio de los hogares agrupados por quintil de ingreso. Esta dinámica se resume en el gráfico, en las que se presentan las variaciones estimadas del ingreso promedio por quintil con transferencias (panel izquierdo) y sin transferencias (panel derecho).
+Las transferencias del Gobierno nacional y distrital a los hogares alcanzaron un nivel sin precedentes durante la crisis, pasando de cubrir alrededor de 2,6 millones de hogares a más de 5 millones de hogares pobres y vulnerables lo cual tuvo un efecto compensatorio  en el ingreso promedio de los hogares agrupados por quintil de ingreso. Esta dinámica se resume en el gráfico, en las que se presentan las variaciones estimadas del ingreso promedio por quintil con transferencias (panel izquierdo) y sin transferencias (panel derecho).
 
 ![ingreso quintil con y sin ayudas](https://user-images.githubusercontent.com/73482880/118413197-addea800-b663-11eb-8211-f64c6ae25c31.gif)
 
 ## Pobreza y desigualdad en la región Caribe
 
 ![Caribe Region MP con ayudas](https://user-images.githubusercontent.com/73482880/118412828-c51c9600-b661-11eb-9573-42887ba4c653.jpg)
-![Caribe Region EP_1 Sin ayudas](https://user-images.githubusercontent.com/73482880/118412833-ca79e080-b661-11eb-9e27-1bb21b9a9983.jpg)
+
 
 ![Pobreza Extrema Caribe GIF](https://user-images.githubusercontent.com/73482880/118413160-812a9080-b663-11eb-8d5e-c1f1632fe168.gif)
 
