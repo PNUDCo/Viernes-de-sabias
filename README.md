@@ -1,4 +1,4 @@
-# Viernes-de-sabias
+# Viernes-de-sabías
 
 Este repositorio contiene los códigos mediante los cuales se eleboran las gráficas elaboradas por el equipo de datos de PNUD Colombia, estas hacen  parte de la publicación de   **_viernes de sabías_**, en la cual se exploran  diferentes temáticas de la coyuntura nacional. 
 
@@ -10,8 +10,8 @@ Brechas en la educación      |  25 de marzo 2021| https://bit.ly/2SXbQQH
 Impacto  socioeconómica de la pandemia COVID -19|  31 de marzo 2021| https://bit.ly/3fqD7lY
 Mercado laboral y pobreza monetaria |  8 de abril 2021| https://bit.ly/3eNsvP3
 Pobreza y desigualdad en la región Caribe|  22 de abril 2021| https://bit.ly/3ycDw4a
-Avances de vacunación en Colombia |  28 de mayo 2021| https://bit.ly/3i7iSNg 
-Mercado laboral de la juventud |  Próximamente | Próximamente
+Avances de vacunación en Colombia |  27 de mayo 2021| https://bit.ly/3xrxprz
+Mercado laboral de la juventud |   18 de junio | Próximamente
 
 
 ## Mujeres en el mercado laboral
