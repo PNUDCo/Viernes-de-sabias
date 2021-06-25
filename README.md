@@ -11,7 +11,7 @@ Impacto  socioeconómica de la pandemia COVID -19|  31 de marzo 2021| https://bi
 Mercado laboral y pobreza monetaria |  8 de abril 2021| https://bit.ly/3eNsvP3
 Pobreza y desigualdad en la región Caribe|  22 de abril 2021| https://bit.ly/3ycDw4a
 Avances de vacunación en Colombia |  27 de mayo 2021| https://bit.ly/3xrxprz
-Mercado laboral de la juventud |   18 de junio | Próximamente
+Mercado laboral de la juventud |   18 de junio | https://bit.ly/3h3FcFh
 
 
 ## Mujeres en el mercado laboral
