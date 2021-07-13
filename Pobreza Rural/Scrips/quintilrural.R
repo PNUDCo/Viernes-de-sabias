@@ -108,14 +108,6 @@ sg<-bar + coord_flip()+
   anim_save("asignacionvaa52_mayo.png",height = 5, width = 7, units = "in", res = 150, dpi=1000)
 
 
-
-
-
-
-
-
-####Esta transición  entre todas las de hombre y mujer
-
 gph + 
   transition_states(población, transition_length = 4, wrap = FALSE) +
   shadow_mark()
