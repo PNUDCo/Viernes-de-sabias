@@ -43,7 +43,7 @@ ggplot(valadd,aes(Trimestre,`Tasa de crecimiento`,fill=`Actividad económica`))+
   facet_grid(~mes)+
   scale_y_continuous(labels = label_number(suffix = "%"))+
   labs(y= "Porcentaje de variación",
-       title= "Valor agregado por actividad económica  ",
+       title= "Valor agregado por actividad económica  ",
        subtitle= "Tasa de crecimiento anual (%) en volumen. (2020)",
        caption= "Fuente: PNUD con base en DANE. Cuentas nacionales")+
   theme_bw() +
@@ -57,7 +57,7 @@ ggplot(valadd,aes(Trimestre,`Tasa de crecimiento`,fill=`Actividad económica`))+
   anim_save("pibsect.gif",height = 5, width = 7, units = "in", res = 150, dpi=1000)
   
   
-##### acá  pongo highlight en lo agro, no se ve bien
+##### acá  pongo highlight en lo agro
 
 ggplot(valadd,aes(Trimestre,`Tasa de crecimiento`,fill=`Actividad económica`))+
   geom_bar(aes(alpha=`Actividad económica`=="Agricultura, ganadería, caza, silvicultura y pesca"), stat = "identity",position = "dodge")+
