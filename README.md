@@ -14,6 +14,7 @@ Avances de vacunación en Colombia |  27 de mayo 2021| https://bit.ly/3xrxprz
 Mercado laboral de la juventud |   18 de junio | https://bit.ly/3h3FcFh
 Panorama  del sector rural  |   2 de julio | https://bit.ly/3AQLktE
 Camino a la inmunidad  de rebaño  |  9 de julio | https://bit.ly/3re1mcH
+El Proyecto de Inversión social en perspectiva  |  23 de julio | https://bit.ly/3i5f3aR
 
 ## Camino a la inmunidad de rebaño 
 
