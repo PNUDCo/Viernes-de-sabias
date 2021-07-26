@@ -16,6 +16,41 @@ Panorama  del sector rural  |   2 de julio  2021| https://bit.ly/3AQLktE
 Camino a la inmunidad  de rebaño  |  9 de julio 2021 | https://bit.ly/3re1mcH
 El Proyecto de Inversión social en perspectiva 2021 |  23 de julio | https://bit.ly/3i5f3aR
 
+
+## El Proyecto de Inversión social en perspectiva
+
+Tras el inicio de la cuarta legislatura en el congreso, el Gobierno Central radicó el Proyecto de Inversión Social (PIS), nombre que recibe la reforma tributaria que surge del trabajo conjunto de empresarios, estudiantes, jóvenes, beneficiarios de programas sociales, autoridades territoriales, entre otros. Esta propuesta surge de la reestructuración de la reforma tributaria presentada durante el segundo trimestre del año, la cual no tuvo gran acogida y provocó malestar social por los cambios tan ambiciosos que proponía.
+
+
+Como se puede ver en la siguiente gráfica, Colombia presenta una carga impositiva sobre las empresas relativamente alto, no solo en comparación con el promedio de la OECD, sino también con el promedio de América Latina. Adicionalmente, se observa que el recaudo por impuestos a personas naturales resulta relativamente bajo y existe una alta dependencia a impuestos altamente regresivos como el IVA.
+![ingresotributamac](https://user-images.githubusercontent.com/73482880/127006922-d65fe4d1-3420-48d3-a625-286d33dced4d.png)
+
+Esta situación ha propiciado, en parte, que el recaudo tributario como porcentaje del PIB de Colombia (19,7%) para el año 2019 este incluso por debajo del promedio de América Latina, el cual para este periodo se ubicó en el 22,9%. El bajo recaudo no solo es una limitante para ampliar el gasto en inversión y en programas sociales, sino que a su vez ilustra que dentro del país existen problemas de carácter estructural, tales como la evasión que generan que economías más pequeñas que la colombiana logren un mayor recaudo.
+
+![recaudoporPIBMAC](https://user-images.githubusercontent.com/73482880/127007024-98b78d15-f6e9-4bd8-a055-1fbf49e8fc94.png)
+
+El segundo pilar del PIS proviene de la lucha contra la evasión fiscal. Para lograrlo, busca complementar las estrategias ya existentes en la DIAN, con medidas como la transformación de la factura electrónica, la ampliación de la cobertura del RUT y la implementación de estrategias de georreferenciación que permitan hacer controles a las actividades sujetas a gravamen. De esta manera, se busca alcanzar ingresos por 2,7 billones anuales.
+
+Sin embargo, a pesar de los esfuerzos que históricamente se han hecho en este aspecto, la tasa de evasión en Colombia, en promedio, ronda el 46,9%, lo que agrega incertidumbre sobre la cifra esperada de recaudo por este rubro. Además, el comportamiento desde 2010, muestra que ha presentado una tendencia positiva, lo cual está relacionado con el incremento de las tarifas sobre la renta.
+
+![evaMAC2c](https://user-images.githubusercontent.com/73482880/127007207-436fed67-f34f-49d1-9a59-c8fb348924c1.png)
+
+El tercer pilar se cimienta en una política de austeridad. Esta busca limitar el aumento de la burocracia; congelar vacantes y contrataciones de servidores públicos de planta; limitar gastos en bienes y servicios; reducir el gasto en viáticos y gastos de oficina por un periodo de 10 años; reducir la carga de arrendamientos, promoviendo el teletrabajo y la virtualidad; racionalizar los esquemas de seguridad y generar un control sobre los contratos por prestación de servicio. Con esto se estima, habrá un ahorro de 1,9 billones.
+
+Sin embargo, resalta que la disposición a entrar en austeridad por parte del gobierno está fuertemente limitada, pues según el Índice de Flexibilidad del Gasto de Gobierno, calculado por Moody´s para América Latina, Colombia es el segundo país de la región en donde la relación entre gastos obligatorios y gasto total genera un menor margen de maniobrabilidad para lograr ahorro. 
+
+![flexmac2](https://user-images.githubusercontent.com/73482880/127007313-a56945b0-eb75-4eea-a5cf-9122e79f83ad.png)
+
+Por otro lado, a pesar de que el PIS contempla puntos de vital importancia en materia social, se enfoca principalmente en los problemas inmediatos dejados por la pandemia, y no aborda la necesidad de reestructurar paulatinamente el sistema tributario del país. Esto resulta sumamente importante ya que somos el país de la OECD con mayor desigualdad después de impuestos y transferencias, haciendo evidente el poco poder redistributivo que tiene actualmente el régimen tributario en el país.
+
+![2021-07-21 14 17 50](https://user-images.githubusercontent.com/73482880/127007386-b527737f-ee06-4882-a2c4-a2f066ed3eaa.gif)
+
+
+
+
+
+
+
 ## Camino a la inmunidad de rebaño 
 
 En la primera semana de julio Colombia  llegó  a 20,1 millones de dosis aplicadas. De estas,  8,6  millones corresponden a  esquemas  completos de vacunación[1]. Esto significa que se ha alcanzado el 22,5% de  la meta  de 35 millones de vacunados[2] para lograr la inmunidad de rebaño en 2021. Estas cifras ubican al país ligeramente por encima de los objetivos propuestos por el Ministerio de Salud en enero de 2020, cuando anunciaron que para inicios de julio el país debería haber aplicado 19,8 millones de dosis. Adicionalmente, con respecto a otros países latinoamericanos, Colombia se encuentra aproximadamente en la mitad de la distribución, por debajo de países como Chile, Uruguay y República Dominicana que cuentan con porcentajes de su población vacunada superiores al 40%, pero por encima de países como Venezuela, Guatemala y Honduras con cifras cercanas al 5%
