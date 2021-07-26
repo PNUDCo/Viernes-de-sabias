@@ -11,10 +11,10 @@ Impacto  socioeconómica de la pandemia COVID -19|  31 de marzo 2021| https://bi
 Mercado laboral y pobreza monetaria |  8 de abril 2021| https://bit.ly/3eNsvP3
 Pobreza y desigualdad en la región Caribe|  22 de abril 2021| https://bit.ly/3ycDw4a
 Avances de vacunación en Colombia |  27 de mayo 2021| https://bit.ly/3xrxprz
-Mercado laboral de la juventud |   18 de junio | https://bit.ly/3h3FcFh
-Panorama  del sector rural  |   2 de julio | https://bit.ly/3AQLktE
-Camino a la inmunidad  de rebaño  |  9 de julio | https://bit.ly/3re1mcH
-El Proyecto de Inversión social en perspectiva  |  23 de julio | https://bit.ly/3i5f3aR
+Mercado laboral de la juventud |   18 de junio 2021 | https://bit.ly/3h3FcFh
+Panorama  del sector rural  |   2 de julio  2021| https://bit.ly/3AQLktE
+Camino a la inmunidad  de rebaño  |  9 de julio 2021 | https://bit.ly/3re1mcH
+El Proyecto de Inversión social en perspectiva 2021 |  23 de julio | https://bit.ly/3i5f3aR
 
 ## Camino a la inmunidad de rebaño 
 
