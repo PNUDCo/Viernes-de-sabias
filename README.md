@@ -16,6 +16,24 @@ Panorama  del sector rural  |   2 de julio  2021| https://bit.ly/3AQLktE
 Camino a la inmunidad  de rebaño  |  9 de julio 2021 | https://bit.ly/3re1mcH
 El Proyecto de Inversión social en perspectiva  |  23 de julio  2021| https://bit.ly/3i5f3aR
 Panorama del crecimiento y empleo durante lo corrido del 2021  |  13 de agosto  2021| https://bit.ly/3mLfLg8
+Brechas de capital humano en el sector de logística y transporte: una mirada desde la logística 4.0  |  20 de agosto  2021| https://bit.ly/3ywRw7I
+
+## Brechas de capital humano en el sector de logística y transporte: una mirada desde la logística 4.0 
+
+Se observa que en el país existe una baja demanda de personas con conocimientos en tecnologías de la cuarta revolución industrial en el sector logística y de transporte. Lo anterior está relacionado con los bajos niveles educativos que se requieren para los cargos que se contratan en el país y con el hecho de que no existes suficientes profesionales con las habilidades requeridas. En cuanto a la oferta, se encuentra que solo el 14% de los ocupados a nivel nacional y el 3% en Bogotá Región están en el sector de logística y transporte, lo que indica que hay un pequeño segmento de la población formándose en habilidades asociadas al sector.![indice4ir]
+
+
+![gra1](https://user-images.githubusercontent.com/73482880/131344693-313b83b0-36e2-4140-91b6-f8bb4d6d539b.png)
+
+
+Existen tres tipos de brechas: las de cantidad, calidad y pertinencia. Sobre las brechas de cantidad se encuentra que existe una baja capacidad de atracción y retención de capital humano del sector de Logística y transporte en el mercado laboral. Lo anterior se debe principalmente a la baja remuneración salarial con respecto a otros sectores y a la competencia a nivel empresa, con otras áreas y sectores cuyos ambientes laborales son menos exigentes y físicamente demandantes (los puestos de cadena de suministro y logística usualmente involucran responsabilidades por operaciones de tiempo continuo 24/7), a la vez que ofrecen compensaciones menos competitivas.
+
+En segundo lugar, con respecto a las brechas de calidad, se encuentra que existen bajos niveles de competencias técnicas y transversales. Los empresarios manifiestan que a pesar de que en la hoja de vida de los empleados aparece el conocimiento de ciertas herramientas tecnológicas, a la hora de aplicarlas, las personas no demuestran una destreza avanzada en su uso. Además, una revisión de las Saber Pro muestra que existe una brecha de 31% entre los resultados del grupo que consigue mayor puntaje en la prueba y el de menor puntaje, es decir, hay un alto grado de dispersión o diferencias entre los conocimientos de los egresados.
+
+Por último, en cuanto a brechas de pertinencia, se encuentra que el sistema educativo ha respondido con rezago a las necesidades del mercado laboral y los programas en logística y transporte no están formando a profesionales con las habilidades necesarias para implementar tecnologías digitales de la 4RI. Lo anterior representa un problema estructural pues, a nivel mundial, el 27% de personas reporta la carencia de habilidades digitales como barrera de empleabilidad (World Bank, 2016).
+
+![indice4ir](https://user-images.githubusercontent.com/73482880/131344775-34bc4cbf-d0f4-4943-b4de-1ae76960c2da.gif)
+
 
 ## Panorama del crecimiento y empleo durante lo corrido del 2021
 
