@@ -1,6 +1,6 @@
 # Viernes-de-sabías
 
-Este repositorio contiene los códigos mediante los cuales se eleboran las gráficas elaboradas por el equipo de datos de PNUD Colombia, estas hacen  parte de la publicación de   **_viernes de sabías_**, en la cual se exploran  diferentes temáticas de la coyuntura nacional. 
+Este repositorio contiene los códigos mediante los cuales se realizan las gráficas  del equipo de datos del grupo de Estudios de Desarrollo de PNUD Colombia, estas hacen  parte de la publicación de   **_viernes de sabías_**, en la cual se exploran  diferentes temáticas de la coyuntura nacional. 
 
 
 Tema | Fecha de publicación | link de acceso a entrada
@@ -216,7 +216,7 @@ Las transferencias del Gobierno nacional y distrital a los hogares alcanzaron un
 ![Pobreza Extrema Caribe GIF](https://user-images.githubusercontent.com/73482880/118413160-812a9080-b663-11eb-8d5e-c1f1632fe168.gif)
 
 
-# Programas requeridos 
+# Programas usados 
  * R
  * STATA
 
