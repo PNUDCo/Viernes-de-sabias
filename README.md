@@ -23,7 +23,8 @@ Durante el primer semestre del año, la economía colombiana ha venido consolida
 
 No obstante, al entrar en este, existe preocupación sobre el mercado laboral, pues parece haber una desconexión entre la dinámica del crecimiento y la reducción del desempleo. Esto surge, dado que durante los dos primeros trimestres de 2021 el mercado laboral comenzó a mermar la capacidad de generación de nuevos puestos de trabajo, de ahí que durante este periodo el comportamiento de la tasa de desempleo[4] se haya mantenido en un promedio de 14,8% llegando a un valor mínimo de 13,9% y un máximo de 15,2% con una variación promedio de 0,8%. Al desagregar estos datos por sexo se observa una tendencia similar en donde la tasa promedio para las mujeres fue de 19,5%, mientras que para los hombres fue de 11,5%, con una variación promedio, para ambos grupos del 1,1%.
 
-![GIFCREC](https://user-images.githubusercontent.com/73482880/131343648-9e0d8c89-453e-4c33-b230-d91e80836df1.gif)
+![GIFtweet](https://user-images.githubusercontent.com/73482880/131343894-bd4e7efc-7d65-4128-a34f-d8614a7911a3.gif)
+
 
 Para el Banco de la Republica, una de las razones por las cuales el mercado laboral puede haber presentado un menor nivel de recuperación durante lo transcurrido del primer semestre, radica en que la recuperación del empleo presentado en 2020 estuvo ligado a los sectores y posiciones ocupacionales no asalariadas e informales, los cuales presentan mayor flexibilidad y menores costos de entrada.  No obstante, una vez recuperados estos puestos de trabajo, se han presentado lentitud para generar puestos de trabajo formal, lo cual explicaría la incapacidad de reducir aún más la tasa de desempleo.
 
