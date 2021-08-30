@@ -17,6 +17,21 @@ Camino a la inmunidad  de rebaño  |  9 de julio 2021 | https://bit.ly/3re1mcH
 El Proyecto de Inversión social en perspectiva  |  23 de julio  2021| https://bit.ly/3i5f3aR
 Panorama del crecimiento y empleo durante lo corrido del 2021  |  13 de agosto  2021| https://bit.ly/3mLfLg8
 
+## Panorama del crecimiento y empleo durante lo corrido del 2021
+
+Durante el primer semestre del año, la economía colombiana ha venido consolidando el proceso de reactivación, pues como lo muestran los datos publicados por el DANE en lo corrido del año[1], se ha evidenciado un crecimiento de 8,2%, el que ha estado impulsado principalmente por el comportamiento de las actividades secundarias[2] y terciarias[3]. Este comportamiento en un escenario donde el Plan Nacional de Vacunación avanza rápidamente, sumado al desmonte total de las restricciones de movilidad en las grandes ciudades, sugiere que el país ha entrado en un nuevo ciclo económico.
+
+No obstante, al entrar en este, existe preocupación sobre el mercado laboral, pues parece haber una desconexión entre la dinámica del crecimiento y la reducción del desempleo. Esto surge, dado que durante los dos primeros trimestres de 2021 el mercado laboral comenzó a mermar la capacidad de generación de nuevos puestos de trabajo, de ahí que durante este periodo el comportamiento de la tasa de desempleo[4] se haya mantenido en un promedio de 14,8% llegando a un valor mínimo de 13,9% y un máximo de 15,2% con una variación promedio de 0,8%. Al desagregar estos datos por sexo se observa una tendencia similar en donde la tasa promedio para las mujeres fue de 19,5%, mientras que para los hombres fue de 11,5%, con una variación promedio, para ambos grupos del 1,1%.
+
+![GIFCREC](https://user-images.githubusercontent.com/73482880/131343648-9e0d8c89-453e-4c33-b230-d91e80836df1.gif)
+
+Para el Banco de la Republica, una de las razones por las cuales el mercado laboral puede haber presentado un menor nivel de recuperación durante lo transcurrido del primer semestre, radica en que la recuperación del empleo presentado en 2020 estuvo ligado a los sectores y posiciones ocupacionales no asalariadas e informales, los cuales presentan mayor flexibilidad y menores costos de entrada.  No obstante, una vez recuperados estos puestos de trabajo, se han presentado lentitud para generar puestos de trabajo formal, lo cual explicaría la incapacidad de reducir aún más la tasa de desempleo.
+
+Al desagregar la participación de los ocupados durante el primer semestre del año entre los años 2015 y 2021, se observa que una de las ramas que más se relaciona con el empleo informal, Comercio, Transporte y Servicios de Comida, ha presentado un aumento de 1,2% entre 2019 y 2021. Así mismo por posición ocupacional se observa que en la posición Trabajador por cuenta propia, también relacionada con la informalidad, se ha presentado un incremento en la participación de 1,9% en el mismo periodo. Esto sugiere que la hipótesis del Banco de la República puede ser cierta.
+
+![finalpartic](https://user-images.githubusercontent.com/73482880/131343732-58b5f357-fda2-4e09-9c7d-033871127675.png)
+
+
 
 ## El Proyecto de Inversión social en perspectiva
 
