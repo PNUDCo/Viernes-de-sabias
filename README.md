@@ -17,7 +17,32 @@ Camino a la inmunidad  de rebaño  |  9 de julio 2021 | https://bit.ly/3re1mcH
 El Proyecto de Inversión social en perspectiva  |  23 de julio  2021| https://bit.ly/3i5f3aR
 Panorama del crecimiento y empleo durante lo corrido del 2021  |  13 de agosto  2021| https://bit.ly/3mLfLg8
 Brechas de capital humano en el sector de logística y transporte: una mirada desde la logística 4.0  |  20 de agosto  2021| https://bit.ly/3ywRw7I
-Colombia en la senda de crecimiento y recuperación |  Próximamente | Próximamente
+Colombia en la senda de crecimiento y recuperación |  3 de septiembre | https://bit.ly/3jOAspU
+
+## Colombia en la senda de crecimiento y recuperación
+
+Tras la publicación de los resultados de crecimiento del PIB, se observó que Colombia ha entrado en una senda de crecimiento, lo cual no solo es consecuencia directa de los esfuerzos que se han hecho a nivel nacional y local para darle prioridad a las agendas de reactivación, sino que así mismo refleja la dinámica positiva que han tenido algunos sectores económicos ante el desmonte de las restricciones a la movilidad.
+
+Estos resultados, además de estar dentro de los pronósticos de los diferentes analistas económicos, también demuestran que el aparato productivo ha sido resiliente y ha logrado sobreponerse a los efectos que tuvo la pandemia y el paro nacional. Esto implica, que, bajo la dinámica actual, para el tercer trimestre del año se estaría logrando regresar al comportamiento que tenía la economía antes de que iniciara la pandemia.
+
+Para el mes de junio, el Indicador de Seguimiento a la Economía tuvo una expansión de 14,4% respecto al mismo periodo del año anterior. Asimismo, se observó una expansión intermensual de 7,4% para este periodo, cifra que muestra que el aparato productivo corrigió la contracción de -5,3%, que se presentó durante abril- mayo por el efecto de los paros en la actividad económica. Al desagregar este comportamiento por las principales ramas de actividad, se observa que las que presentaron una mayor variación positiva durante este mes fueron las actividades artísticas y de entretenimiento, con un crecimiento de 86,4%; las actividades de comercio, transporte y servicios de comida, que aportaron 37,4%; y las actividades de industrias manufactureras, que representaron el 23%. Durante este periodo la participación por cada uno de los sectores sobre el valor agregado de la economía fue de 68% en el sector terciario, 19% en el primario y 13% en el secundario.
+
+![plot2](https://user-images.githubusercontent.com/73482880/132150394-076118fe-ef66-498d-9a79-3a705485a05f.png)
+
+El ISE por sectores muestra que a pesar de que en junio,  la tendencia retorno a su senda  positiva, hubo una corrección de su comportamiento derivado del efecto que tuvieron los paros, los estos  mermaron la velocidad que  traían desde la primera parte del trimestre. En este ámbito el sector más afectado fue el  secundario que pasó de una expansión  anual de 80,1 en  abril, dinámica derivada  del buen desempeño que tuvo  industria manufacturera y el sector construcción durante este mes,  a una  de  9,4 en mayo y 11,7 en junio.
+
+
+![plot3](https://user-images.githubusercontent.com/73482880/132150423-42de0acb-0dbe-4f81-a88a-c10917597d97.png)
+
+
+Por otro lado, los resultados del mes muestran importantes avances en la recuperación de la economía, no obstante, estos avances pueden parecer altos pues existe un fuerte componente de efecto base que hacen que al observar las variaciones anuales haya grandes cambios. Por esta razón, el DANE calcula el índice 100=febrero 2020, el cual toma como referencia de febrero de 2020 y realiza comparaciones del Índice de seguimiento a la economía mes a mes. Según la Entidad se encuentra que durante junio el aparato productivo del país generó valor agregado a un 99,7%, es decir solo 0,3 p.p.. por debajo de la capacidad que tenía en febrero de 2020. Al desagregar esta cifra por sector, se muestra que solo dentro de las actividades terciarias se sobrepasó el nivel de generación de valor agregado en 2,1 p.p.; mientras que dentro del primario y secundario la generación de valor aún está 8,8 p.p. y 5,6 p.p., respectivamente, por debajo del comportamiento que tenían antes de la pandemia.
+
+Estos resultados son positivos, pues no solo muestran que la economía ya está retornando a niveles normales de su desempeño, sino que también sugieren que al ritmo al que se está creciendo para el tercer trimestre del año la economía ya estaría creciendo por encima de los niveles que tenía a principios de 2020.
+
+![ISE](https://user-images.githubusercontent.com/73482880/132150407-5229d01c-994a-4df6-b672-19db6e636bb3.gif)
+
+
+
 
 ## Brechas de capital humano en el sector de logística y transporte: una mirada desde la logística 4.0 
 
