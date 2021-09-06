@@ -15,9 +15,9 @@ Mercado laboral de la juventud |   18 de junio 2021 | https://bit.ly/3h3FcFh
 Panorama  del sector rural  |   2 de julio  2021| https://bit.ly/3AQLktE
 Camino a la inmunidad  de rebaño  |  9 de julio 2021 | https://bit.ly/3re1mcH
 El Proyecto de Inversión social en perspectiva  |  23 de julio  2021| https://bit.ly/3i5f3aR
-Panorama del crecimiento y empleo durante lo corrido del 2021  |  13 de agosto  2021| https://bit.ly/3mLfLg8
+Panorama del crecimiento y empleo durante lo corrido del 2021  |  13 de agosto 2021| https://bit.ly/3mLfLg8
 Brechas de capital humano en el sector de logística y transporte: una mirada desde la logística 4.0  |  20 de agosto  2021| https://bit.ly/3ywRw7I
-Colombia en la senda de crecimiento y recuperación |  3 de septiembre | https://bit.ly/3jOAspU
+Colombia en la senda de crecimiento y recuperación |  3 de septiembre 2021 | https://bit.ly/3jOAspU
 
 ## Colombia en la senda de crecimiento y recuperación
 
