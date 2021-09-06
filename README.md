@@ -39,10 +39,7 @@ Por otro lado, los resultados del mes muestran importantes avances en la recuper
 
 Estos resultados son positivos, pues no solo muestran que la economía ya está retornando a niveles normales de su desempeño, sino que también sugieren que al ritmo al que se está creciendo para el tercer trimestre del año la economía ya estaría creciendo por encima de los niveles que tenía a principios de 2020.
 
-![ISE](https://user-images.githubusercontent.com/73482880/132150407-5229d01c-994a-4df6-b672-19db6e636bb3.gif)
-
-
-
+![ISEDes](https://user-images.githubusercontent.com/73482880/132150584-846fb7d7-a10e-40e0-82a1-a41f6059d49d.gif)
 
 ## Brechas de capital humano en el sector de logística y transporte: una mirada desde la logística 4.0 
 
