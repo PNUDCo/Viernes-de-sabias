@@ -23,9 +23,44 @@ Una perspectiva subjetiva del desarrollo: Resultados del Latinobarómetro 2020 |
 Uso de nuevas tecnologías de información para dar respuesta a catástrofes  |  15 de octubre 2021 | https://bit.ly/3vOJHdX
 ## Uso de nuevas tecnologías de información para dar respuesta a catástrofes 
 
+El paso del Huracán IOTA por el caribe colombiano a finales del año 2020, produjo una devastación del 98% de la infraestructura de las islas de Providencia y Santa Catalina. Ante este escenario PNUD Colombia, en apoyo al gobierno nacional, brindó asesoría para la evaluación de los daños y el proceso de reconstrucción mediante el uso de nuevas tecnologías que no solo permitieron identificar los sectores más afectados tras el paso de este fenómeno natural, sino que a su vez permitieron desplegar de manera precisa capacidades específicas que dieron una respuesta focalizada en este territorio.
+
+Con el fin de implementar soluciones que permitieran dar una respuesta inmediata y efectiva ante catástrofes naturales, mediante planteamientos de vanguardia en el análisis de datos y la caracterización geográfica del territorio afectado, PNUD introdujo la metodología de HBDA, mecanismo creado con el propósito de ayudar a las autoridades a identificar, en tiempo real, la población e infraestructura afectada tras la ocurrencia de fenómenos naturales de gran magnitud que alteren la calidad de vida de la población.
+
+El proceso en esta parte de la isla comenzó mediante la construcción de un mapa de realidad aumentada valiéndose de cámaras 360, las cuales permitieron hacer un diagnóstico inicial de las afectaciones y la ubicación exacta de puntos prioritarios a atender, lo cual facilitó la toma de decisiones de cara a lo acontecido en la isla. Seguido a esto, apoyados por Drones se hizo una caracterización del suelo y las estructuras de los lugares perjudicados, lo que posibilitó la elaboración de diagnósticos de afectación topográfica e impactos en la biodiversidad.
+
+![GIFProvidencai](https://user-images.githubusercontent.com/73482880/139104854-f7716099-e8fc-4cf9-aecf-0e7732eb1f25.gif)
+
 ## Una perspectiva subjetiva del desarrollo: Resultados del Latinobarómetro 2020
 
+El Latinobarómetro es un estudio pionero en América Latina que surge a finales de la década de los 80 y que se materializa en 1995 con el primer ejercicio de recolección de información y presentación de resultados. El reconocimiento de la relevancia de la información que aporta este estudio a los procesos de toma de decisiones ha propiciado que los gobiernos, las agencias de cooperación internacional y la academia se hayan sumado y hayan respaldado esta importante iniciativa para América Latina.
+
+Específicamente, el Latinobarómetro es una encuesta de opinión pública anual que permite indagar sobre las percepciones, actitudes, comportamientos y valores de la población en 18 países de América Latina. La encuesta explora temas de economía, bienestar, confianza institucional, democracia, ejercicio de gobierno y seguridad, entre otros.  Al considerar las creencias y las posturas de las personas frente a las problemáticas sociales, la encuesta permite una exploración alternativa y complementaria a las mediciones objetivas tradicionales, aportando a discusiones sociales más informadas.
+
+Sin embargo, y aun más importante que lo anterior, esta encuesta nos permite escuchar las demandas de la población e identificar lo que piensan y valoran. Esto se posiciona como un insumo clave en medio de un contexto como el actual, en el que la crisis por el COVID-19 ha visibilizado y profundizado problemas estructurales de la región como la pobreza y la desigualdad, desencadenando la necesidad de un nuevo contrato social entre el Estado y la sociedad.
+
+Para entender mejor esto, y en el marco del más reciente Informe Regional de Desarrollo Humano, el PNUD, en colaboración con el equipo del Latinobarómetro, amplío el cuestionario básico de la encuesta del 2020 con el objetivo de incluir preguntas relacionadas con desigualdad y con formas de cómo combatirla. Este artículo, se va a centrar en presentar algunos de los resultados más relevantes de ese trabajo, exponiendo una perspectiva alternativa al problema de la desigualdad en América Latina y el Caribe (ALC), y dilucidando un poco la razón del por qué hoy constituye, junto a un bajo crecimiento, una trampa de pobreza en la región.
+
+![2021-10-01 10 51 56](https://user-images.githubusercontent.com/73482880/139105344-27779313-6349-4910-8bfb-54dec688b09d.gif)
+
+En los resultados del Latinobarómetro donde, a pesar de que, en promedio, más del 81% de la población en ALC piensa que la distribución de ingreso es injusta (85% en Colombia), esta percepción varia en función de su posición en la sociedad. Como se puede ver en la gráfica 3, las personas que creen pertenecer al 20% más rico tienen una menor probabilidad de ver el sistema actual como injusto, relativo a los que creen pertenecer al 20% más pobre. Esto se transmite, no solo a temas de ingreso, sino de educación, salud, justicia, igualdad de género e igualdad de oportunidades.
+
+![WhatsApp Image 2021-10-01 at 09 26 35](https://user-images.githubusercontent.com/73482880/139105474-3e155420-23a7-4910-b4f4-965e1a0dcba7.jpeg)
+
+
 ## El aumento de la pobreza multidimensional en 2020 se concentró en las zonas rurales
+
+El Índice de Pobreza Multidimensional, permite evaluar y medir de manera directa si los hogares tienen privación o no de elementos que se consideran vitales tales como acceso a salud, educación, empleo, vivienda y las condiciones de la niñez y juventud. Estas se conocen como dimensiones, compuestas a su vez por 15 variables, que no solo permiten caracterizar los hogares, sino que a su vez ayudan a identificar de manera concreta qué aspectos generan que la calidad de vida de los hogares mejore o empeore en el tiempo. De esta manera, los hogares son considerados pobres multidimensionalmente cuando tienen privación en por lo menos el 33,3% de los indicadores.
+
+En Colombia, el IPM venía disminuyendo sostenidamente, lo cual reflejaba que la calidad de vida y la provisión de servicios y derechos básicos iba mejorando. No obstante, ante la llegada de la pandemia este panorama cambió, pues durante 2020 el porcentaje de personas en situación de pobreza multidimensional aumentó a nivel nacional, pasando de 17,5%, en 2019, a 18,1% en 2020.
+
+![IPMcambio](https://user-images.githubusercontent.com/73482880/139105735-3a6826c9-0818-4a53-97a6-218837a7febe.gif)
+
+nacional, se observa que las dimensiones que tuvieron un mayor aumento en la contribución fueron la de condiciones de la niñez y juventud (5,8 p.p.) y, en menor medida, la de Trabajo (0,7 p.p.), jalonadas respectivamente por la Inasistencia y Rezago escolar, por un lado, y por el Desempleo de larga duración por el otro.
+
+Al observar estas variables por dominio se encuentra que su detrimento se dio mayoritariamente en las zonas rurales. Así, mientras que en las cabeceras el aumento en la inasistencia escolar fue de 10,3 p.p., en los centros poblados y el rural disperso fue de más del doble con 25,5 p.p. Asimismo, respecto al desempleo de larga duración se observa un fenómeno similar, mientras que para las zonas urbanas el aumento fue de 1,6p.p. para las zonas rurales de 2,1 p.p.
+
+![ruralIPM](https://user-images.githubusercontent.com/73482880/139105872-ff561170-a2a3-4188-9c06-1cef57c917d2.gif)
 
 
 ## Colombia en la senda de crecimiento y recuperación
