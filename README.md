@@ -3,7 +3,7 @@
 Este repositorio contiene los códigos mediante los cuales se realizan las gráficas  del equipo de datos del grupo de Estudios de Desarrollo de PNUD Colombia, estas hacen  parte de la publicación de   **_viernes de sabías_**, en la cual se exploran  diferentes temáticas de la coyuntura nacional. 
 
 
-Tema | Fecha de publicación | link de acceso a entrada
+Tema | Fecha de publicación | Link de acceso a entrada
 ------------ | -------------| -------------
 Mujeres en el mercado laboral|  5 de marzo 2021| https://bit.ly/2RlHmY0
 Brechas en la educación      |  25 de marzo 2021| https://bit.ly/2SXbQQH
