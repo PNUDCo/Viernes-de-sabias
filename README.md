@@ -18,6 +18,15 @@ El Proyecto de Inversión social en perspectiva  |  23 de julio  2021| https://b
 Panorama del crecimiento y empleo durante lo corrido del 2021  |  13 de agosto 2021| https://bit.ly/3mLfLg8
 Brechas de capital humano en el sector de logística y transporte: una mirada desde la logística 4.0  |  20 de agosto  2021| https://bit.ly/3ywRw7I
 Colombia en la senda de crecimiento y recuperación |  3 de septiembre 2021 | https://bit.ly/3jOAspU
+El aumento de la pobreza multidimensional en 2020 se concentró en las zonas rurales |  10 de septiembre 2021 | https://bit.ly/3GpZlBt
+Una perspectiva subjetiva del desarrollo: Resultados del Latinobarómetro 2020 |  1 de octubre 2021 | https://bit.ly/3CllLl1
+Uso de nuevas tecnologías de información para dar respuesta a catástrofes  |  15 de octubre 2021 | https://bit.ly/3vOJHdX
+## Uso de nuevas tecnologías de información para dar respuesta a catástrofes 
+
+## Una perspectiva subjetiva del desarrollo: Resultados del Latinobarómetro 2020
+
+## El aumento de la pobreza multidimensional en 2020 se concentró en las zonas rurales
+
 
 ## Colombia en la senda de crecimiento y recuperación
 
