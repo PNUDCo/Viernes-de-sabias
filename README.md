@@ -21,7 +21,20 @@ Colombia en la senda de crecimiento y recuperación |  3 de septiembre 2021 | ht
 El aumento de la pobreza multidimensional en 2020 se concentró en las zonas rurales |  10 de septiembre 2021 | https://bit.ly/3GpZlBt
 Una perspectiva subjetiva del desarrollo: Resultados del Latinobarómetro 2020 |  1 de octubre 2021 | https://bit.ly/3CllLl1
 Uso de nuevas tecnologías de información para dar respuesta a catástrofes  |  15 de octubre 2021 | https://bit.ly/3vOJHdX
-Cierres educativos en Colombia |  28 de octubre 2021 | Próximamente
+Cierres educativos en Colombia |  28 de octubre 2021 | https://bit.ly/3nZ6rF4
+Panorama de los propietarios de micronegocios tras la pandemia | 5 de noviembre | https://bit.ly/3PwLkFT
+Los retos y tendencias de la investigación sobre pobreza, desigualdad y desarrollo humano | 12 de noviembre | https://bit.ly/3o29H2p
+Informe Regional de Desarrollo Humano 2021: la paradoja de la desigualdad en Colombia|10 de diciembre |https://bit.ly/3O7VhrW
+El 2021 fue el año de la reactivación económica. La consolidación de la recuperación tiene retos importantes hacia el 2022 | 17 de diciembre | https://bit.ly/3P7U0ml
+La forma en que está organizada la contribución a la seguridad social en Colombia tiende a excluir de la protección a los trabajadores de muy bajos ingresos ¿Qué hacer al respecto? | 11 de febrero | https://bit.ly/3yHWpgi
+Crecimiento, inflación y desempleo: sumas y restas para la pobreza | 25 de febrero | https://bit.ly/3P6YtWo
+Automatización del mercado laboral colombiano | 18 de marzo | https://bit.ly/3PpMRNR
+Colombia: en búsqueda de una educación para el trabajo y la productividad | 8 de abril | https://bit.ly/3IBtNKi
+Panorama de los jóvenes en Colombia tras la pandemia |29 de abril|https://bit.ly/3chfFtK
+Un breve recorrido por las cifras de pobreza del 2021 |27 de mayo |https://bit.ly/3PseFkJ
+
+
+
 ## Uso de nuevas tecnologías de información para dar respuesta a catástrofes 
 
 El paso del Huracán IOTA por el caribe colombiano a finales del año 2020, produjo una devastación del 98% de la infraestructura de las islas de Providencia y Santa Catalina. Ante este escenario PNUD Colombia, en apoyo al gobierno nacional, brindó asesoría para la evaluación de los daños y el proceso de reconstrucción mediante el uso de nuevas tecnologías que no solo permitieron identificar los sectores más afectados tras el paso de este fenómeno natural, sino que a su vez permitieron desplegar de manera precisa capacidades específicas que dieron una respuesta focalizada en este territorio.
