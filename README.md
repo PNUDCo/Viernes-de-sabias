@@ -71,7 +71,6 @@ Esta falta de aseguramiento expone a los hogares a la pérdida de empoderamiento
 
 
 
-<img width="1440" alt="Captura de Pantalla 2022-12-01 a la(s) 4 21 14 p m" src="https://user-images.githubusercontent.com/73482880/205161794-63d9b54d-2771-4b92-83dc-b372c06e1a74.png">
 
 
 
