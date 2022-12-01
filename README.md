@@ -33,6 +33,26 @@ Colombia: en búsqueda de una educación para el trabajo y la productividad | 8 
 Panorama de los jóvenes en Colombia tras la pandemia |29 de abril|https://bit.ly/3chfFtK
 Un breve recorrido por las cifras de pobreza del 2021 |27 de mayo |https://bit.ly/3PseFkJ
 Aseguramiento inclusivo como estrategia para la movilidad social| 25 de agosto| https://bit.ly/3XMSWZM
+Acceso a energía una estrategia para la reducción de la pobreza | 14 de octubre | https://bit.ly/3H3LnYS
+
+## Acceso a energía una estrategia para la reducción de la pobreza
+
+¿Sabías que, la falta de acceso a una fuente de energía es un factor que eleva la vulnerabilidad y exclusión social? En esta entrada, te contamos cómo garantizar el acceso a energía es un factor vital para la reducción de la pobreza
+
+![Satelital1](https://user-images.githubusercontent.com/73482880/205164612-b4f0b2c2-9d50-413b-b444-af26ecb1472b.gif)
+
+Los resultados de la proporcionalidad están relacionados con que en estos países el acceso a energía eléctrica es visto como un elemento que fomenta el desarrollo humano, ya que permite el robustecimiento de los procesos educativos, el mejoramiento de la salud y el empoderamiento productivo.
+
+Al analizar el consumo de energía de los países de acuerdo al Índice de Desarrollo Humano, se encuentra que están correlacionados, pues a niveles superiores de IDH, mayor consumo de energía tienen los países.  No obstante, también se encuentra que el consumo medio de energía de los países desarrollados tiende a estancarse entre más alto es su IDH, esto sugiere que alcanzar un nivel de bienestar determinado estabiliza el nivel de consumo de un país.
+<img width="281" alt="Imagen 1" src="https://user-images.githubusercontent.com/73482880/205164906-7294c1df-28d7-4bc3-81be-655cc43733b0.png">
+
+El Índice de desarrollo de acuerdo con la luz nocturna, muestra que en Colombia para el 2021 existía una desigualdad de 0,7312 lo que implica que existe una gran concentración de la luz exterior en muy pocos territorios del país.
+
+Al mirar este índice a nivel subnacional se encuentra que la luz exterior se concentra en los departamentos de la zona Andina y Caribe, en donde el Índice tiene un promedio de 0,4532, mientras que en la región Amazónica y de la Orinoquía esta llega a ser de 0.8232.
+
+
+![Imagen 2](https://user-images.githubusercontent.com/73482880/205164756-5fefc42f-5b58-41ba-9dc1-557c649faf18.png)
+
 
 
 ## Aseguramiento inclusivo como estrategia para la movilidad social
@@ -41,12 +61,21 @@ Aseguramiento inclusivo como estrategia para la movilidad social| 25 de agosto| 
 
 En esta entrada, te contamos cómo el aseguramiento inclusivo es un factor clave para reducir la pobreza e inequidades y promover la movilidad social e inclusión financiera.
 
- 
-
 El rol del aseguramiento inclusivo en la movilidad social
 En los países en vía de desarrollo se estima que, al menos el 98.4% de los hogares pobres y vulnerables no están protegidos frente a los riesgos[1] a los que están expuestos (UNDP: Insurance and Risk Finance Facility, 2021). De acuerdo con Munich Re Fundation, se estima que, durante 2021 en esos mismos países, el crecimiento de la cobertura del aseguramiento inclusivo fue menor al 3%.
 
 Esta falta de aseguramiento expone a los hogares a la pérdida de empoderamiento productivo, pues ante la materialización de algún siniestro, el 84.3% de hogares pobres y vulnerables, acudirían a estrategias como venta de activos productivos, préstamos con altas tasas de interés, disminución del gasto en educación y alimentos, uso de ahorros y acceso a trabajos con un alto nivel de precarización laboral. Este panorama es preocupante si se tiene en cuenta que, tras la pandemia por COVID 19, la siniestralidad en América Latina pasó de 20% a 55% (Micro Insurance Network, 2021).
+
+<img width="1440" alt="Captura de Pantalla 2022-12-01 a la(s) 4 21 14 p m" src="https://user-images.githubusercontent.com/73482880/205161794-63d9b54d-2771-4b92-83dc-b372c06e1a74.png">
+
+A nivel macro, la inclusión financiera promueve la diversificación de la economía, garantizando el acceso a servicios de financiación, generación de ahorro y el aseguramiento. A nivel micro, está busca consolidar un piso de protección que, ante estos choques, permita conservar el ahorro y la fuente de ingreso de los hogares y las empresas.
+
+Particularmente, las políticas y esfuerzos de diferentes países se han orientado a proteger a la población más vulnerable frente a la materialización del riesgo a través de microseguros y aseguramiento inclusivo[2] (International Association of Insurance Supervisor, 2021).
+
+Según los datos más recientes de la Insurrance Network, durante el 2020 en el mundo 204 millones de personas tuvieron acceso a este producto, de las cuales 14 millones se concentraron en América Latina. Valores que se mantuvieron estables a pesar de las afectaciones por COVID-19, la mayor cantidad de objetos asegurables a nivel global son la salud, la vida y las propiedades de las personas.
+
+<img width="1321" alt="Captura de Pantalla 2022-12-01 a la(s) 4 36 15 p m" src="https://user-images.githubusercontent.com/73482880/205164089-56aaf8ba-295d-4fac-ae06-d11d7c1c8b58.png">
+
 
 
 
