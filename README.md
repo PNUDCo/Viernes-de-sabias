@@ -32,6 +32,21 @@ Automatización del mercado laboral colombiano | 18 de marzo | https://bit.ly/3P
 Colombia: en búsqueda de una educación para el trabajo y la productividad | 8 de abril | https://bit.ly/3IBtNKi
 Panorama de los jóvenes en Colombia tras la pandemia |29 de abril|https://bit.ly/3chfFtK
 Un breve recorrido por las cifras de pobreza del 2021 |27 de mayo |https://bit.ly/3PseFkJ
+Aseguramiento inclusivo como estrategia para la movilidad social| 25 de agosto| https://bit.ly/3XMSWZM
+
+
+## Aseguramiento inclusivo como estrategia para la movilidad social
+
+¿Sabías que, la alta exposición al riesgo y la falta de acceso a seguros, elevan la vulnerabilidad y exclusión social?
+
+En esta entrada, te contamos cómo el aseguramiento inclusivo es un factor clave para reducir la pobreza e inequidades y promover la movilidad social e inclusión financiera.
+
+ 
+
+El rol del aseguramiento inclusivo en la movilidad social
+En los países en vía de desarrollo se estima que, al menos el 98.4% de los hogares pobres y vulnerables no están protegidos frente a los riesgos[1] a los que están expuestos (UNDP: Insurance and Risk Finance Facility, 2021). De acuerdo con Munich Re Fundation, se estima que, durante 2021 en esos mismos países, el crecimiento de la cobertura del aseguramiento inclusivo fue menor al 3%.
+
+Esta falta de aseguramiento expone a los hogares a la pérdida de empoderamiento productivo, pues ante la materialización de algún siniestro, el 84.3% de hogares pobres y vulnerables, acudirían a estrategias como venta de activos productivos, préstamos con altas tasas de interés, disminución del gasto en educación y alimentos, uso de ahorros y acceso a trabajos con un alto nivel de precarización laboral. Este panorama es preocupante si se tiene en cuenta que, tras la pandemia por COVID 19, la siniestralidad en América Latina pasó de 20% a 55% (Micro Insurance Network, 2021).
 
 
 
