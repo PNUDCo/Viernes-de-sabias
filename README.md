@@ -66,13 +66,19 @@ En los países en vía de desarrollo se estima que, al menos el 98.4% de los hog
 
 Esta falta de aseguramiento expone a los hogares a la pérdida de empoderamiento productivo, pues ante la materialización de algún siniestro, el 84.3% de hogares pobres y vulnerables, acudirían a estrategias como venta de activos productivos, préstamos con altas tasas de interés, disminución del gasto en educación y alimentos, uso de ahorros y acceso a trabajos con un alto nivel de precarización laboral. Este panorama es preocupante si se tiene en cuenta que, tras la pandemia por COVID 19, la siniestralidad en América Latina pasó de 20% a 55% (Micro Insurance Network, 2021).
 
+
+
 <img width="1440" alt="Captura de Pantalla 2022-12-01 a la(s) 4 21 14 p m" src="https://user-images.githubusercontent.com/73482880/205161794-63d9b54d-2771-4b92-83dc-b372c06e1a74.png">
+
+
+
 
 A nivel macro, la inclusión financiera promueve la diversificación de la economía, garantizando el acceso a servicios de financiación, generación de ahorro y el aseguramiento. A nivel micro, está busca consolidar un piso de protección que, ante estos choques, permita conservar el ahorro y la fuente de ingreso de los hogares y las empresas.
 
 Particularmente, las políticas y esfuerzos de diferentes países se han orientado a proteger a la población más vulnerable frente a la materialización del riesgo a través de microseguros y aseguramiento inclusivo[2] (International Association of Insurance Supervisor, 2021).
 
 Según los datos más recientes de la Insurrance Network, durante el 2020 en el mundo 204 millones de personas tuvieron acceso a este producto, de las cuales 14 millones se concentraron en América Latina. Valores que se mantuvieron estables a pesar de las afectaciones por COVID-19, la mayor cantidad de objetos asegurables a nivel global son la salud, la vida y las propiedades de las personas.
+
 
 <img width="1321" alt="Captura de Pantalla 2022-12-01 a la(s) 4 36 15 p m" src="https://user-images.githubusercontent.com/73482880/205164089-56aaf8ba-295d-4fac-ae06-d11d7c1c8b58.png">
 
