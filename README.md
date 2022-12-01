@@ -1,6 +1,6 @@
 # Viernes-de-sabías
 
-Este repositorio contiene los códigos mediante los cuales se realizan las gráficas  del equipo de datos del grupo de Estudios de Desarrollo de PNUD Colombia, estas hacen  parte de la publicación de   **_viernes de sabías_**, en la cual se exploran  diferentes temáticas de la coyuntura nacional. 
+Este repositorio contiene los códigos mediante los cuales se realizan las gráficas  del equipo de datos del Área de Reducción de la Pobreza y Desigualdades de PNUD Colombia, estas hacen  parte de la publicación de   **_viernes de sabías_**, en la cual se exploran  diferentes temáticas de la coyuntura nacional. 
 
 
 Tema | Fecha de publicación | Link de acceso a entrada
