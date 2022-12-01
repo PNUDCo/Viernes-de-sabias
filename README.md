@@ -46,7 +46,8 @@ Los resultados de la proporcionalidad están relacionados con que en estos país
 Al analizar el consumo de energía de los países de acuerdo al Índice de Desarrollo Humano, se encuentra que están correlacionados, pues a niveles superiores de IDH, mayor consumo de energía tienen los países.  No obstante, también se encuentra que el consumo medio de energía de los países desarrollados tiende a estancarse entre más alto es su IDH, esto sugiere que alcanzar un nivel de bienestar determinado estabiliza el nivel de consumo de un país.
 
 
-<img width="281" alt="Imagen 1" src="https://user-images.githubusercontent.com/73482880/205164906-7294c1df-28d7-4bc3-81be-655cc43733b0.png">
+<img width="771" alt="Captura de Pantalla 2022-12-01 a la(s) 4 45 16 p m" src="https://user-images.githubusercontent.com/73482880/205165596-99544231-1c0b-4f60-b1c1-87d653daaa36.png">
+
 
 
 El Índice de desarrollo de acuerdo con la luz nocturna, muestra que en Colombia para el 2021 existía una desigualdad de 0,7312 lo que implica que existe una gran concentración de la luz exterior en muy pocos territorios del país.
