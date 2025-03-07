@@ -349,6 +349,17 @@ Las transferencias del Gobierno nacional y distrital a los hogares alcanzaron un
 ![Pobreza Extrema Caribe GIF](https://user-images.githubusercontent.com/73482880/118413160-812a9080-b663-11eb-8d5e-c1f1632fe168.gif)
 
 
+## Focalización de acuerdo a regiones eficientes 
+
+<img width="571" alt="image" src="https://github.com/user-attachments/assets/c768b36a-123e-4909-8a57-129bc909c62d" />
+<img width="574" alt="image" src="https://github.com/user-attachments/assets/4460a7af-b88d-42f9-b645-e95dd8bb80f4" />
+<img width="570" alt="image" src="https://github.com/user-attachments/assets/a6093f85-8c33-446f-af78-3e0814622bd6" />
+<img width="571" alt="image" src="https://github.com/user-attachments/assets/f6910a1c-5332-4fc1-8f52-dfb6bb48254d" />
+<img width="572" alt="image" src="https://github.com/user-attachments/assets/dfab71ff-1c5d-4ccd-ad10-d8f22e878b96" />
+
+
+
+
 # Programas usados 
  * R
  * STATA
