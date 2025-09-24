@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/python-v3.12.3+-blue.svg)
+![PNUD](https://img.shields.io/badge/PNUD-Area%20de%20Paz-blue.svg)
+![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
+![Multi-Project](https://img.shields.io/badge/structure-multi--project-lightgrey.svg)
+![License](https://img.shields.io/badge/license-Private-red.svg)
 # Viernes-de-sabías
 
 Este repositorio contiene los códigos mediante los cuales se realizan las gráficas  del equipo de datos del Área de Reducción de la Pobreza y Desigualdades de PNUD Colombia, estas hacen  parte de la publicación de   **_viernes de sabías_**, en la cual se exploran  diferentes temáticas de la coyuntura nacional. 
